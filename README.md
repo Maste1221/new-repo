@@ -20,7 +20,6 @@ Built with:
 
 - HTML
 - CSS
-- Bootstrap
 - JavaScript
 
 
